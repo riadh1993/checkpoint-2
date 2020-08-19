@@ -1,0 +1,67 @@
+html {
+  height: 100%;
+}
+body {
+  background-color: #2f3035;
+}
+
+.container {
+  margin-right: auto;
+  margin-left: auto;
+  width: 830px;
+}
+header h1 {
+  height: 70px;
+  font-size: 40px;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+  color: black;
+  text-align: center;
+  padding-top: 30px;
+}
+nav {
+  background-color: rgba(46, 42, 42, 0.377);
+  text-align: center;
+  padding: 14px 14px;
+}
+main {
+  height: 270px;
+  text-align: center;
+  padding-top: 60px;
+  padding-left: 240px;
+  padding-right: 240px;
+  padding-bottom: 70px;
+}
+footer {
+  background-color: rgba(0, 0, 0, 0.4);
+  padding: 30px 30px;
+}
+h1 {
+  font-size: 70px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+p {
+  font-size: 14px;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+}
+a {
+  color: white;
+  text-decoration: none;
+  font-size: 16x;
+  font-family: arial;
+  text-decoration: underline;
+}
+nav a {
+  text-decoration: none;
+  font-size: 12px;
+  padding-left: 10px;
+  padding-right: 10px;
+}
+footer p {
+  font-size: 10px;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  color: white;
+}
